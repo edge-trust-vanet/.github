@@ -96,7 +96,7 @@ The EdgeTrust-VANET codebase is modularized across three specialized repositorie
 
 Conducted at the **Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India**:
 
-- **Ms. Neethu M R** - *Project Guide & Assistant Professor* (`mr_neethu@cb.amrita.edu`)
+- **Dr. Neethu M R** - *Project Guide & Assistant Professor* (`mr_neethu@cb.amrita.edu`)
 - **Madisetty Mounik Sai** - *Undergraduate Researcher* (`cb.sc.u4cse23561@cb.students.amrita.edu`)
 - **Edavalapati Aashiq** - *Undergraduate Researcher* (`cb.sc.u4cse23560@cb.students.amrita.edu`)
 - **Chitturi Vivek Vardhan** - *Undergraduate Researcher* (`cb.sc.u4cse23360@cb.students.amrita.edu`)
